@@ -2550,7 +2550,7 @@ input[type="button"].btn-block {
   color: #212529;
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background-color: black;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem; }
@@ -5287,12 +5287,12 @@ button.bg-light:hover,
 button.bg-light:focus {
   background-color: #dae0e5 !important; }
 
-.bg-dark {
+.bg-light {
   background-color: #343a40 !important; }
 
-a.bg-dark:hover, a.bg-dark:focus,
-button.bg-dark:hover,
-button.bg-dark:focus {
+a.bg-light:hover, a.bg-light:focus,
+button.bg-light:hover,
+button.bg-light:focus {
   background-color: #1d2124 !important; }
 
 .bg-white {
@@ -8895,7 +8895,7 @@ textarea.form-control {
 .ftco-no-pb {
   padding-bottom: 0; }
 
-.ftco-bg-dark {
+.ftco-bg-light {
   background: #3c312e; }
 
 .ftco-footer {
